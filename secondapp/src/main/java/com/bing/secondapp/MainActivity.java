@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
 
         for(int i = 0; i < 10; i++)
             System.out.println(i);
+        System.out.print("hello");
     }
 }
